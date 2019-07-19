@@ -1,0 +1,42 @@
+#jumbotronMain{
+     
+     background-image: url(back.jpg);
+     text-align: center;
+     margin-top: 50px;
+    }
+    
+     #email{
+       width: 300px;
+     }
+  
+    #resumenApp{
+     
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;  
+    }
+   
+    
+  
+  
+   
+ 
+    
+     .card-size{
+     width: 18rem;
+     
+      
+     }
+    #footer{
+      background-color:orange;
+      padding-top: 150px;
+      margin-top:150px;
+      text-align: center;
+      padding-bottom: 150px;
+    }
+     body{
+       position: relative;
+     }
+    
+  
+   
