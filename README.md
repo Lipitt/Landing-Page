@@ -1,2 +1,2 @@
 # Landing-Page
-Una simple pagina de aterrizaje (Landing Page)
+Una simple landing page hecha en Javascript y Bootstrap.  
